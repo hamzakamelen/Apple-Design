@@ -1,0 +1,426 @@
+body {
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background-color: white;
+    color: #1d1d1f;
+    font-style: normal;
+    width: 100%;
+    height: 100%;
+}
+
+nav {
+    padding-top: 1%;
+    width: 101%;
+    background-color: black;
+    height: 40px;
+    color: aqua;
+    font-size: 0.8em;
+}
+.OO {
+    visibility: hidden;
+    background-color: #1d1d1f;
+}
+
+a {
+    padding: 24px;
+    color: darkgrey;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px;
+}
+
+a:hover {
+    color: white;
+}
+
+.unicef {    
+    width: 98.2%;
+    background-color: whitesmoke;
+    font-size: 1em;
+    text-align: center;
+    padding: 20px;
+    padding-top: 2%;
+    margin-right: 30px;
+}
+
+.unilink {
+    justify-content: center;
+    padding: -40%;
+
+    text-decoration: none;
+    color: blue;
+}
+
+.unilink:hover {
+    color: blue;
+    text-decoration: underline;
+
+}
+
+.parent {
+    background: none whitesmoke;
+}
+
+.mackbook img {
+    margin-right: 10%;
+    width: 40%;
+    background-color: white;
+    float: right;
+    height: 33em;
+    margin-top: 40px;
+
+}
+
+.air {
+    font-size: 1.5em;
+    font-style: normal;
+    font-family: " SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+    float: left;
+    margin-left: 20%;
+
+    margin-top: 15%;
+    text-align: center;
+
+}
+
+.air img {
+    height: 1.5em;
+    margin-top: -20%
+}
+
+.air a {
+    font-size: 0.8em;
+    text-decoration: none;
+    color: blue;
+
+}
+
+.air a:hover {
+    text-decoration: underline;
+}
+
+.iphone {
+    display: inline-block;
+    background-color: whitesmoke;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.iphone h1 {
+    display: flex;
+    text-align: center;
+    font-size: 3em;
+    margin-left: 42%;
+}
+
+.iphone h6 {
+    text-align: center;
+    font-size: 1.5em;
+    margin: -30px;
+    padding: 0px;
+    font-weight: lighter;
+}
+
+.iphone a {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: blue;
+
+}
+
+.iphone a:hover {
+    text-decoration: underline;
+}
+
+.iphone img {
+    margin: -60px;
+    margin-top: -150px;
+    width: 50%;
+    height: 80%;
+}
+
+.iphone div {
+    background-color: whitesmoke;
+    height: 200%;
+}
+
+.School {
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 10px;
+}
+
+.School h1 {
+
+    font-size: 3.3em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.School h3 {
+
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: lighter;
+    text-decoration: dotted;
+    margin: -42px;
+}
+
+.School span {
+    color: #ca2166;
+}
+
+.School a {
+    text-decoration: none;
+    color: blue;
+    font-size: 1.2em;
+    margin: 50%;
+    text-align: center;
+    margin-right: 548px;
+    margin-left: 548px;
+}
+
+.Schoolimage {
+    margin: 10px;
+}
+
+.flexes {
+    background-color: rgb(245, 245, 245);
+    float: left;
+    width: 50%;
+    height: 120%;
+}
+
+.flexes h1 {
+    font-size: 3em;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.flexes h3 {
+    font-size: 1.5em;
+    margin: -110px;
+    font-style: normal;
+    font-weight: lighter;
+    text-decoration: dotted;
+}
+
+.flexes a {
+    text-align: center;
+    margin: -2%;
+    margin-left: -2%;
+}
+
+.flexes img {
+    margin: 10%;
+}
+
+.pro13 {
+    font-size: 1em;
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: black;
+    color: white;
+}
+
+.pro13 a {
+    text-align: center;
+    margin: -2%;
+    margin-left: -2%;
+}
+
+.superimage {
+    margin: -50px;
+
+}
+
+.laptop {
+    margin: -100%px;
+}
+
+.watch {
+    background-color: whitesmoke;
+}
+
+.watch h1 {
+    text-align: center;
+    margin-right: 50%;
+}
+
+.watch h5 {
+    text-align: center;
+    margin-right: 48%;
+    margin-top: -2%;
+    color: #ca2166;
+    letter-spacing: 0.1em;
+}
+
+.watch h3 {
+    text-align: center;
+    margin-right: 46%;
+    margin-top: -3%;
+    font-weight: lighter;
+}
+
+.watch a {
+    color: blue;
+    margin-right: -21%;
+    margin-left: 19%;
+}
+
+.watchimage {
+    text-align: center;
+    margin-right: 46%;
+    margin-top: -10%;
+}
+
+.ipad {
+    width: 50%;
+    float: right;
+    background-color: black;
+    margin-top: -38.5%;
+    height: 100%;
+}
+
+.ipad h1 {
+    text-align: center;
+}
+
+.ipad h3 {
+    color: white;
+    font-weight: lighter;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -6%;
+}
+
+.ipad a {
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: -35%;
+}
+
+.newcard {
+    text-align: center;
+    float: left;
+    margin-left: -0.5%;
+    background-color: whitesmoke;
+    width: 50%;
+}
+
+.newcard img {
+    margin-top: -25%;
+    height: 600px;
+}
+.newcard a {
+    text-decoration: none;
+    color: blue;
+}
+
+.musiclife {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+.musiclife h1 img {
+    margin-top: 1%;
+}
+.musiclife div img {
+    margin-top: -2%;
+}
+.slide {
+    height: 50%;
+    width: 100%;
+    scroll-behavior: auto;
+    scrollbar-shadow-color: black;
+
+}
+.para {
+    margin-right: 5%;
+    font-size: 14px;
+    background-color: whitesmoke;
+    width: 100%;
+    margin-right: 15%;
+}
+
+.text7{
+    width: 70%;
+}
+
+.para{
+    font-size: 12px;
+}
+
+.paragraph{
+    background-color:#F5F5F7;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    padding: 10px;
+    line-height: 15px;
+}
+
+.footer{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    background-color: #F5F5F7;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footerlink{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+li{
+    list-style: none;
+    line-height: 25px;
+    font-size: 12px;
+    font-weight: lighter;
+    color: grey;
+
+}
+
+.bold{
+    font-weight:bolder;
+    color: black;
+}
+
+li:hover{
+    text-decoration: underline;
+}
+
+.buttomtext{
+    background-color: #F5F5F7;
+    color: grey;
+    width: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.buttomtext p{
+    font-size: 13px;
+}
+
+.buttom{
+    display:flex;
+    justify-content: center;
+    background-color: #F5F5F7;
+    padding: 30px;
+    
+}
